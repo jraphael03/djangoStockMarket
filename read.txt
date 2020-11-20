@@ -1,0 +1,6 @@
+Django-admin startproject djangoyStockMarket
+
+Django-admin start app stockMarket
+
+
+
